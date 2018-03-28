@@ -11,7 +11,7 @@ if(args.length == 3){
    
     switch(operation){
 
-         case "mas":
+         case "suma":
             resultado = "Suma : " + (parseFloat(num1) + parseFloat(num2));
             break;
         
